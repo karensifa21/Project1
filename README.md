@@ -14,3 +14,4 @@ I want to make a change beause I so excited to learn Git
 hæ haha test
 test á branch
 Sigrún að merge branch við main :)
+Hrafnhildur merge branch við main
