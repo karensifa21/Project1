@@ -13,3 +13,4 @@ I want to make a change because that is how I learn
 I want to make a change beause I so excited to learn Git
 hæ haha test
 test á branch
+Sigrún að merge branch við main :)
