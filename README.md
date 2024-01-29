@@ -16,3 +16,5 @@ test á branch
 Sigrún að merge branch við main :)
 
 Smá prufa
+
+Karen að merge branch við main-ið
