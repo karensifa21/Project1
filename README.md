@@ -15,3 +15,4 @@ hæ haha test
 test á branch
 Sigrún að merge branch við main :)
 Hrafnhildur merge branch við main
+Jakob að merge-a branch með main :-)
