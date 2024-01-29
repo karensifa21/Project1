@@ -18,3 +18,5 @@ Sigrún að merge branch við main :)
 Smá prufa
 
 Karen að merge branch við main-ið
+
+Iris making merging in branch 
